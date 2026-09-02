@@ -11,3 +11,5 @@ public class StudentController {
         System.out.println("Estudiante: " + student.getName() + " | Correo: " + student.getEmail());
     }
 }
+
+// Colaborador: Sebastian Espiritu
